@@ -31,8 +31,8 @@ No real-world systems were targeted at any point.
 
 | Week | Topic | Report |
 |---|---|---|
-| Week 1 | Advanced Recon & Attack Surface Mapping | [View Report](./Week1_Lab_Report.pdf) |
-| Week 2 | Network Enumeration & Service Vulnerability Discovery | [View Report](./Week2_Lab_Report.pdf) |
+| Week 1 | Advanced Recon & Attack Surface Mapping | [View Report](./Week1_Lab_Report_Final.pdf) |
+| Week 2 | Network Enumeration & Service Vulnerability Discovery | [View Report](./Week2_Lab_Report_Final.pdf) |
 
 ---
 
